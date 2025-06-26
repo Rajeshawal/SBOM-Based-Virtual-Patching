@@ -206,7 +206,7 @@ VirtualPatching/
 **Screenshot 1: SBOM File Loaded**
 > The GUI with loaded SBOM components on the left and CVE query panel on the right.
 
-![NVD Checker - SBOM Loaded](images/nvd-checker.png)
+![NVD Checker - SBOM Loaded](nvd-checker.png)
 
 
 ---
@@ -216,7 +216,7 @@ VirtualPatching/
 **Screenshot 1: CVE Dropdown Selection**
 > To uploaded CSV file and view in details
 
-![CVE Viewer - Dropdown](images/cve-viewer.png)
+![CVE Viewer - Dropdown](cve-viewer.png)
 
 
 
