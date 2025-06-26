@@ -180,9 +180,14 @@ Each script opens its own GUI window for interaction.
 
 ```plaintext
 VirtualPatching/
-├── CVE_Details.py
-├── nvd_checker.py
-├── sbom_generator.py
+├── images
+  ├──sbom-generator.png
+  ├──nvd-checker.png
+  ├──cve-deatail.png
+├──program-codes
+  ├──CVE-Details.py
+  ├── nvd-checker.py
+  ├── sbom-generator.py
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
@@ -197,7 +202,7 @@ VirtualPatching/
 **Screenshot 1: Component Entry Form**
 > Shows the GUI where users enter component metadata (e.g., name, version, type, supplier) and generate SBOMs.
 
-![SBOM Generator - Component Form](sbom-generator.png)
+![SBOM Generator - Component Form](images/sbom-generator.png)
 
 ---
 
@@ -206,7 +211,7 @@ VirtualPatching/
 **Screenshot 1: SBOM File Loaded**
 > The GUI with loaded SBOM components on the left and CVE query panel on the right.
 
-![NVD Checker - SBOM Loaded](nvd-checker.png)
+![NVD Checker - SBOM Loaded](images/nvd-checker.png)
 
 
 ---
@@ -216,7 +221,7 @@ VirtualPatching/
 **Screenshot 1: CVE Dropdown Selection**
 > To uploaded CSV file and view in details
 
-![CVE Viewer - Dropdown](cve-detail.png)
+![CVE Viewer - Dropdown](images/cve-detail.png)
 
 
 
