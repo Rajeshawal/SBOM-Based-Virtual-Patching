@@ -234,47 +234,6 @@ VirtualPatching/
 ![CVE Viewer - Mitigation](images/cve_viewer_links.png)
 
 
-
-### sbom_generator.py
-
-**Component Entry Form**
-> GUI where users input component metadata.
-
-![SBOM Generator - Form](images/sbom_generator_form.png)
-
-**SBOM JSON Export**
-> Success message after saving the SBOM.
-
-![SBOM Generator - Export](images/sbom_generator_export.png)
-
----
-
-### nvd_checker.py
-
-**SBOM File Loaded**
-> Displays loaded components from JSON file.
-
-![NVD Checker - Loaded](images/nvd_checker_loaded.png)
-
-**Vulnerability Results**
-> CVE list with severity and detail panel.
-
-![NVD Checker - Results](images/nvd_checker_results.png)
-
----
-
-### CVE_Details.py
-
-**CVE Dropdown Interface**
-> Select CVEs from a list.
-
-![CVE Viewer - Dropdown](images/cve_viewer_dropdown.png)
-
-**Mitigation Links**
-> Fetched patch/advisory URLs from NVD.
-
-![CVE Viewer - Links](images/cve_viewer_links.png)
-
 ---
 
 ## 🔮 Future Plans
