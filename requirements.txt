@@ -1,0 +1,4 @@
+requests
+cyclonedx-bom
+nvdlib
+pandas
