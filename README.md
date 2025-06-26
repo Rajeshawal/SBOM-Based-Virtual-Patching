@@ -181,13 +181,13 @@ Each script opens its own GUI window for interaction.
 ```plaintext
 VirtualPatching/
 ├── images
-  ├──sbom-generator.png
-  ├──nvd-checker.png
-  ├──cve-deatail.png
+    ├──sbom-generator.png
+    ├──nvd-checker.png
+    ├──cve-deatail.png
 ├──program-codes
-  ├──CVE-Details.py
-  ├── nvd-checker.py
-  ├── sbom-generator.py
+    ├──CVE_Details.py
+    ├── nvd_checker.py
+    ├── sbom_generator.py
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
