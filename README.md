@@ -216,7 +216,7 @@ VirtualPatching/
 **Screenshot 1: CVE Dropdown Selection**
 > To uploaded CSV file and view in details
 
-![CVE Viewer - Dropdown](cve-viewer.png)
+![CVE Viewer - Dropdown](cve-detail.png)
 
 
 
